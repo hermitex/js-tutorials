@@ -1,0 +1,26 @@
+OOP -> Object Oriented Programming
+Concepts of OOP
+Object ->  A real world object tangible or non-tangible that have attributes and behaviour
+Examples: Bank, Person, Animal, Table, Car, Back Account
+Class -> Bluebrint/Prototype from which you can create related objects
+Property -> attribute that an object owns. e.g a human being has name, age, skin color, weight
+Behaviour -> actions that an object posses. e.g run, walk, eat, cry, laugh
+
+1. Inheritance
+Animal -> Cat
+Car -> Probox
+
+University ->       Employees -> Lecture                    
+name: Strathmore    name, age, salary, department    
+2. Encapsulation
+Data and behaviour to manipulate the data enclosed in an object.
+Access modifiers
+
+3. Abstraction
+Hiding implementation details and showing what is necessary or important to the user.
+
+4. Polymorphism
+Carbon -> Diamond, Graphite
+
+producingSound -> 
+move -> walk, slither, 
